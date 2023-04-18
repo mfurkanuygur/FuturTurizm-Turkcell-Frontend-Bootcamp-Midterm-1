@@ -1,4 +1,4 @@
-# Vize 1 / Bootstrap-SCSS-HTML
+# Midterm 1 / Bootstrap-SCSS-HTML
 
  <h3>Proje konusu turizm üzerine belirlenmiş olup kullanıcıların seçebilecekleri tur çeşitleri bulunmaktadır. </h3>
  <hr>
