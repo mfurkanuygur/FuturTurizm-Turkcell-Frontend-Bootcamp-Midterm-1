@@ -1,1 +1,0 @@
-# Turkcell-Frontend-Bootcamp-Midterm-Homework1
