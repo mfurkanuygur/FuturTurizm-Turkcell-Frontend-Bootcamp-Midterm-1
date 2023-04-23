@@ -67,7 +67,7 @@
  <h2 style="color:white">Ekran Görüntüleri</h2>
 <div>
  <img src="./Midterm1/screenshot/homepage.png" alt="homepage" width="200px">
-
+ <img src="./Midterm1/screenshot/product.png" alt="product" width="200px">
  <img src="./Midterm1/screenshot/about.png" alt="about" width="200px">
 <img src="./Midterm1/screenshot/faq.png" alt="faq" width="200px">
 </div>
