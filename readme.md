@@ -65,9 +65,9 @@
     </li>
  </ul>
  <h2 style="color:white">Ekran Görüntüleri</h2>
- [homepage]: ./Midterm1/screenshot/homepage.png "Homepage"
- 
-![homepage](https://user-images.githubusercontent.com/76523870/233849602-55280abc-80fe-4172-a977-054e09d8247b.png)
+ <img src="./Midterm1/screenshot/homepage.png" alt="homepage" height="300px">
+
+
  
  <hr>
 <h3> <strong style="text-decoration:underline">Dipnot-1</strong>: Bazı slaytlarda resimlerden kaynaklı olarak milimetrik kayma var gibi. Olabildiğince düzeltmeye çalıştım.
