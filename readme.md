@@ -65,11 +65,11 @@
     </li>
  </ul>
  <h2 style="color:white">Ekran Görüntüleri</h2>
-<div style="display:flex;justify-content:start">
+<div style="align-content:center">
  <img src="./Midterm1/screenshot/homepage.png" alt="homepage" width="200px">
  <img src="./Midterm1/screenshot/product.png" alt="homepage" width="200px">
  <img src="./Midterm1/screenshot/about.png" alt="homepage" width="200px">
-<img src="./Midterm1/screenshot/faq.png" alt="homepage" width="200px">
+<img src="./Midterm1/screenshot/faq.png" alt="homepage" width="200px" style="align-self:start">
 </div>
 
  <hr>
