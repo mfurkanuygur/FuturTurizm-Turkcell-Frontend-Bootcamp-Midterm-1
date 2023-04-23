@@ -1,6 +1,16 @@
-# Midterm 1 / Bootstrap-SCSS-HTML
+# Vize 1 / Bootstrap-SCSS-HTML
 
- <h3>Proje konusu turizm üzerine belirlenmiş olup kullanıcıların seçebilecekleri tur çeşitleri bulunmaktadır. </h3>
+![Geleceği Yazanlar Logo](https://gelecegiyazanlar.turkcell.com.tr/themes/custom/gyz/logo.svg)
+
+ <h3>Verilen e-ticaret konulu ödev çerçevesinde proje konusu turizm üzerine belirlenmiş olup kullanıcıların seçebilecekleri tur çeşitleri bulunmaktadır. </h3>
+ <hr>
+ <h2 style="color:white">Kullanılan Teknolojiler</h2>
+<p >  
+<a  href="https://getbootstrap.com"  target="_blank"  rel="noreferrer"> 
+ <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  alt="bootstrap"  width="40"  height="30"/>  </a>  
+ <a  href="https://www.w3schools.com/css/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  alt="css3"  width="30"  height="40"/>  </a> 
+  <a  href="https://www.w3.org/html/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  alt="html5"  width="30"  height="40"/>  </a>  <a  href="https://sass-lang.com"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"  alt="sass"  width="40"  height="30"/>  </a>  
+  </p>
  <hr>
  <h2 style="color:white">Proje kapsamında oluşturulan sayfalar</h3>
  <ul>
@@ -54,13 +64,14 @@
         Teklifler ve tur programı bölümlerinde accordion yapısı kullanılmıştır.
     </li>
  </ul>
+ <h2 style="color:white">Ekran Görüntüleri</h2>
+![homepage](https://user-images.githubusercontent.com/76523870/233849602-55280abc-80fe-4172-a977-054e09d8247b.png)
+ 
+ <hr>
+<h3> <strong style="text-decoration:underline">Dipnot-1</strong>: Bazı slaytlarda resimlerden kaynaklı olarak milimetrik kayma var gibi. Olabildiğince düzeltmeye çalıştım.
+</h3>
+<h3> <strong style="text-decoration:underline">Dipnot-2</strong>: Site performansını olumsuz etkilememesi için tüm resimleri webp formatına dönderdim. Lighthouse testlerinde başlangıçta 70-75 civarlarında olan sonuçlar bu sayede ortalama 85-90 arası skorlara kadar çıktı. Umarım herhangi bir sıkıntı olmaz :D .
+</h3>
 
-<hr>
 
-### Dipnot-1: Bazı slaytlarda resimlerden kaynaklı olarak milimetrik kayma var gibi. Olabildiğince düzeltmeye çalıştım.
-
-### Dipnot-2: Site performansını olumsuz etkilememesi için tüm resimleri webp formatına dönderdim. Lighthouse testlerinde başlangıçta 70-75 civarlarında olan sonuçlar bu sayede ortalama 85-90 arası skorlara kadar çıktı. Umarım herhangi bir sıkıntı olmaz :D .
-
-#
-
-## Herşey için teşekkürler bir sonraki ödevde görüşmek üzere... :) 
+## Herşey için teşekkürler... :)
