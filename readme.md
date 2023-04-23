@@ -78,4 +78,4 @@
 <h3> <strong style="text-decoration:underline">Dipnot-2</strong>: Site performansını olumsuz etkilememesi için tüm resimleri webp formatına dönderdim. Lighthouse testlerinde başlangıçta 70-75 civarlarında olan sonuçlar bu sayede ortalama 85-90 arası skorlara kadar çıktı. Umarım herhangi bir sıkıntı olmaz :D .
 </h3>
 
-## Herşey için teşekkürler... :)
+## Herşey için teşekkürler... :) 
