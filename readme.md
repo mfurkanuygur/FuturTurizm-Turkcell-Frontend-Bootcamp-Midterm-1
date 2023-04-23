@@ -65,7 +65,7 @@
     </li>
  </ul>
  <h2 style="color:white">Ekran Görüntüleri</h2>
-<div style="display:flex;align-items:flex-start">
+<div style="display:flex;align-content:flex-start">
  <img src="./Midterm1/screenshot/homepage.png" alt="homepage" width="200px">
  <img src="./Midterm1/screenshot/product.png" alt="homepage" width="200px">
  <img src="./Midterm1/screenshot/about.png" alt="homepage" width="200px">
