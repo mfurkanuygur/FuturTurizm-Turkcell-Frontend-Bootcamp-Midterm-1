@@ -65,12 +65,12 @@
     </li>
  </ul>
  <h2 style="color:white">Ekran Görüntüleri</h2>
-<div style="align-items:center">
+
  <img src="./Midterm1/screenshot/homepage.png" alt="homepage" width="200px">
  <img src="./Midterm1/screenshot/product.png" alt="homepage" width="200px">
  <img src="./Midterm1/screenshot/about.png" alt="homepage" width="200px">
 <img src="./Midterm1/screenshot/faq.png" alt="homepage" width="200px">
-</div>
+
 
  <hr>
 <h3> <strong style="text-decoration:underline">Dipnot-1</strong>: Bazı slaytlarda resimlerden kaynaklı olarak milimetrik kayma var gibi. Olabildiğince düzeltmeye çalıştım.
