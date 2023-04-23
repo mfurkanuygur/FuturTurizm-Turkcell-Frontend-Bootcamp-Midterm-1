@@ -65,17 +65,17 @@
     </li>
  </ul>
  <h2 style="color:white">Ekran Görüntüleri</h2>
+<div style="display:flex">
  <img src="./Midterm1/screenshot/homepage.png" alt="homepage" width="200px">
  <img src="./Midterm1/screenshot/product.png" alt="homepage" width="200px">
  <img src="./Midterm1/screenshot/about.png" alt="homepage" width="200px">
 <img src="./Midterm1/screenshot/faq.png" alt="homepage" width="200px">
+</div>
 
- 
  <hr>
 <h3> <strong style="text-decoration:underline">Dipnot-1</strong>: Bazı slaytlarda resimlerden kaynaklı olarak milimetrik kayma var gibi. Olabildiğince düzeltmeye çalıştım.
 </h3>
 <h3> <strong style="text-decoration:underline">Dipnot-2</strong>: Site performansını olumsuz etkilememesi için tüm resimleri webp formatına dönderdim. Lighthouse testlerinde başlangıçta 70-75 civarlarında olan sonuçlar bu sayede ortalama 85-90 arası skorlara kadar çıktı. Umarım herhangi bir sıkıntı olmaz :D .
 </h3>
-
 
 ## Herşey için teşekkürler... :)
